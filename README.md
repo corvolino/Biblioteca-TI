@@ -8,7 +8,7 @@
 
 ### Python
 * [Python para desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
-* [Blackhat python(portugues)](https://mega.nz/#!BwQWEC7C!pQoCEuoqSGeHWJWiVqIH7NWZTLi0G0TkrcyT7KwiMqw)
+* [Python para hackers e pentesters(portugues)](https://mega.nz/#!BwQWEC7C!pQoCEuoqSGeHWJWiVqIH7NWZTLi0G0TkrcyT7KwiMqw)
 * [Aprenda computação com python 3](rodrigor.dcx.ufpb.br/_media/.../19939680-aprendacomputaocompython3k.pdf)
 
 ### Shell Script
