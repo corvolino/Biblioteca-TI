@@ -24,6 +24,9 @@
 * [Assembly para iniciantes](https://mega.nz/#!dpoQjDjY!_wtopaem8X3gvx7Aj7ps7RTF2HOId_FaclszL6FQ_iE)
 * [Assembly 8800](https://mega.nz/#!YkxySRTL!XG2-UTl1L_bU2tnF2T6lPQ5N0ekJ76ba5WX2kbTOlSA)
 
+### Golang
+* [Programando em Go - Crie aplicações com a linguagem do Google](https://mega.nz/#!kwZiRa6T!e0tp5RSGl98lBWjli3z5JduEC6ymVqAxZTkgufMDRVc)
+
 ### LISP
 * [Introdução LISP](https://mega.nz/#!YkxySRTL!XG2-UTl1L_bU2tnF2T6lPQ5N0ekJ76ba5WX2kbTOlSA)
 
